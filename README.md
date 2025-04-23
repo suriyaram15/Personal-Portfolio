@@ -45,16 +45,6 @@ Personal-Portfolio/
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Desktop View
-![Desktop Screenshot](https://user-images.githubusercontent.com/your_screenshot_url)
-
-### 📱 Mobile View
-![Mobile Screenshot](https://user-images.githubusercontent.com/your_screenshot_url)
-
----
-
 ## 🔧 How to Run Locally
 
 1. Clone the repository:
