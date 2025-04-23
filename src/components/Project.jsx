@@ -84,7 +84,7 @@ const Project = () => {
               A responsive and elegant portfolio website built using React.js and Tailwind CSS to showcase my skills, projects, and contact information.
             </p>
             <a
-              href="https://suriyaram.vercel.app/"
+              href="https://suriyaram.netlify.app/"
               className="text-[#1795fe] font-bold text-lg hover:underline"
             >
               Live Demo
