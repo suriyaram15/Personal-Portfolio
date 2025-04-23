@@ -1,75 +1,84 @@
-# Portfolio-Giveway
 
-A modern developer-focused portfolio template built with **Vite**, **React**, and **Tailwind CSS**. This template is fully customizable, responsive, and integrates **Web3Forms** for seamless form submission. Ideal for showcasing your projects, skills, and experience.
+# 💼 Personal Portfolio Website
 
-## Demo
+Welcome to my **Personal Portfolio Website** — a clean, responsive, and elegant web application built using **React.js** and **Tailwind CSS** to showcase my skills, projects, and contact details.
 
-Check out the live demo: [immucoderr.netlify.app](https://immucoderr.netlify.app)
+## 🚀 Live Demo
 
-## Features
+👉 [Check it out here!](https://suriyaram.vercel.app)
 
-- **Fast & Modern:** Built with Vite for optimized performance.
-- **Responsive Design:** Works seamlessly on all devices.
-- **Customizable:** Easily adapt the template to fit your needs.
-- **Form Integration:** Web3Forms for simple and secure form submissions.
-- **Tailwind CSS:** Stylish and efficient utility-first CSS framework.
+---
 
-## Installation
+## ✨ Features
 
-Follow these steps to set up the project locally:
+- ✅ Fully responsive design
+- 🌐 Built with React.js and Tailwind CSS
+- 💡 Animated and interactive UI
+- 🛠️ Project showcase with live links
+- 📞 Smooth contact section
+- 🧭 Easy navigation
 
-### Prerequisites
+---
 
-- Node.js installed on your system.
-- Git installed.
+## 🛠 Tech Stack
 
-### Steps to Clone and Run
+- **Frontend**: React.js, Tailwind CSS
+- **Deployment**: Vercel
 
-1. **Clone the Repository:**
+---
+
+## 📁 Folder Structure
+
+```
+Personal-Portfolio/
+├── public/
+│   └── assets/           # Static images and icons
+├── src/
+│   ├── components/       # Reusable React components
+│   ├── pages/            # Section-wise pages (Home, Projects, etc.)
+│   ├── App.jsx           # Root component
+│   └── main.jsx          # Entry point
+├── tailwind.config.js    # TailwindCSS config
+├── package.json
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Desktop Screenshot](https://user-images.githubusercontent.com/your_screenshot_url)
+
+### 📱 Mobile View
+![Mobile Screenshot](https://user-images.githubusercontent.com/your_screenshot_url)
+
+---
+
+## 🔧 How to Run Locally
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/AMOHAMMEDIMRAN/Portfolio-Giveway.git
+   git clone https://github.com/suriyaram15/Personal-Portfolio.git
+   cd Personal-Portfolio
    ```
 
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd Portfolio-Giveway
-   ```
-
-3. **Install Dependencies:**
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-4. **Start the Development Server:**
+3. Start the development server:
    ```bash
    npm run dev
    ```
 
-5. **Build for Production:**
-   To create an optimized production build:
-   ```bash
-   npm run build
-   ```
-
-6. **Preview the Build:**
-   To preview the production build:
-   ```bash
-   npm run preview
-   ```
-
-## Usage
-
-- Customize the content and styles in the `src` directory to fit your personal or professional needs.
-- Configure Web3Forms in the designated form component for form submissions.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+4. Open `http://localhost:5173` in your browser 🚀
 
 ---
 
-Happy Coding! 🎉
+## 📬 Contact
+
+- 💼 [LinkedIn](https://linkedin.com/in/suriyaram15)
+- 📧 Email: thesuriyaram@gmail.com
+
